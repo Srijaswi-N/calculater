@@ -1,0 +1,17 @@
+div{
+    background-color:bisque;
+    border:3px solid black;
+    width:500px;
+    height:400px ;
+    text-align: center;
+    
+}
+h3{
+    color:red;
+}
+p{
+    color:green;
+}
+h1{
+    color:blueviolet;
+}
